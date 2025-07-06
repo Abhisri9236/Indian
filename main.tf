@@ -17,7 +17,7 @@ resource "azurerm_resource_group" "SecondTryRG1111" {
     location = "Central US"
 }
 
-resource "azurerm_resource_group" "oves" {
-    name = "secondtry1111mumbai"
+resource "azurerm_resource_group" "oves1" {
+    name = "secondtry1111mumbai1"
     location = "Central US"
 }
