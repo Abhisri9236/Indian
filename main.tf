@@ -22,7 +22,7 @@ resource "azurerm_resource_group" "oves" {
     location = "Central US"
 }
 
-resource "azurerm_resource_group" "gunjan" {
-    name = "gunjan-to-mumbai"
+resource "azurerm_resource_group" "sanjay" {
+    name = "sanjay-to-mumbai"
     location = "Central US"
 }
