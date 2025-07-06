@@ -21,3 +21,8 @@ resource "azurerm_resource_group" "oves" {
     name = "secondtry1111mumbai"
     location = "Central US"
 }
+
+resource "azurerm_resource_group" "sanjay" {
+    name = "sanjay-to-mumbai"
+    location = "Central US"
+}
